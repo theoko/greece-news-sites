@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+update.log
+archive/
+greece-news-sites.csv
